@@ -1,0 +1,17 @@
+{
+  "name": "nearest_youbike",
+  "version": "1.0.0",
+  "description": "Find youbike stations in Taipei near given lat and lon and check availability of bikes",
+  "main": "server.js",
+  "author": "Nicole Weatherburne",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "geolib": "^2.0.22",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
